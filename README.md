@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuan-dev-di
+- 👋 Hi, I’m @tuan-dev-di - Thanh Tuấn
 - 👀 I’m interested in JavaScript, ReactJS, NodeJS, Java
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Java
 - 💞️ I’m looking to collaborate on MERN project
