@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, ReactJS, NodeJS, Java
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Java
 - 💞️ I’m looking to collaborate on MERN project
-- 📫 How to reach me TDD/tuan-dev-di (github)
+- 📫 How to reach me TDD/tuan-dev-di (GitHub)
 
 <!---
 tuan-dev-di/tuan-dev-di is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
